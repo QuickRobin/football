@@ -1,4 +1,4 @@
-#  2.Fix anderer Fix dockerfile
+# 2. Fix Dockerfile
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
